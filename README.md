@@ -13,3 +13,6 @@ Directories:
 
 
 Changelist http://hsqldb.org/doc/2.0/changelist_2_0.txt
+
+Source SVN - RO - svn checkout svn://svn.code.sf.net/p/hsqldb/svn/ hsqldb-svn
+Source SVN - HTTP - svn checkout http://svn.code.sf.net/p/hsqldb/svn/ hsqldb-svn
